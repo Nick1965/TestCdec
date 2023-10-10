@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCdec.Api", "TestCdec.Api.csproj", "{F9BE2F77-3C85-4E28-90FA-E4F9AE5AFFD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCdec.Mvc", "..\TestCdec.Mvc\TestCdec.Mvc.csproj", "{32D94C55-D059-4A39-AA84-1818E04D1BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BE2F77-3C85-4E28-90FA-E4F9AE5AFFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BE2F77-3C85-4E28-90FA-E4F9AE5AFFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BE2F77-3C85-4E28-90FA-E4F9AE5AFFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BE2F77-3C85-4E28-90FA-E4F9AE5AFFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D94C55-D059-4A39-AA84-1818E04D1BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D94C55-D059-4A39-AA84-1818E04D1BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D94C55-D059-4A39-AA84-1818E04D1BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D94C55-D059-4A39-AA84-1818E04D1BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90EC5A03-1706-4814-8E74-7B4544691C5C}
+	EndGlobalSection
+EndGlobal
